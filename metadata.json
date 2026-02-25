@@ -1,0 +1,5 @@
+{
+  "name": "Aura: Agentic AI Tutor",
+  "description": "A professional VR learning environment featuring an autonomous AI tutor capable of complex reasoning and personalized education.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
